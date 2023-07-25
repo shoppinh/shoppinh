@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/shoppinh](github.com/shoppinh)
 
-- 💬 Ask me about **react, vue and python**
+- 💬 Ask me about **react, javascript and python**
 
 - 📫 How to reach me **mactrungkien2000@gmail.com**
 
