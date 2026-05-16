@@ -76,8 +76,7 @@ offscreen K-POP, good food, focused coding
 <div align="center">
 
 <a href="https://github.com/shoppinh"><img src="https://img.shields.io/badge/GitHub-shoppinh-020617?style=for-the-badge&logo=github&logoColor=fff7ed" alt="GitHub" /></a>
-<a href="https://linkedin.com/in/mac-kien-679829193"><img src="https://img.shields.io/badge/LinkedIn-Mac%20Kien-0f766e?style=for-the-badge&logo=linkedin&logoColor=fff7ed&labelColor=020617" alt="LinkedIn" /></a>
-<a href="https://dev.to/shoppinh"><img src="https://img.shields.io/badge/Dev.to-shoppinh-111827?style=for-the-badge&logo=dev.to&logoColor=fff7ed&labelColor=020617" alt="Dev.to" /></a>
+<a href="https://www.linkedin.com/in/kien-mac-trung-679829193/"><img src="https://img.shields.io/badge/LinkedIn-Mac%20Kien-0f766e?style=for-the-badge&logo=linkedin&logoColor=fff7ed&labelColor=020617" alt="LinkedIn" /></a>
 <a href="mailto:mactrungkien2000@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-f59e0b?style=for-the-badge&logo=gmail&logoColor=020617&labelColor=fff7ed" alt="Email" /></a>
 
 </div>
